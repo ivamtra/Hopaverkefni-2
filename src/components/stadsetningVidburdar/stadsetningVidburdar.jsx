@@ -1,0 +1,1 @@
+"þetta er strengur híhíhí"
